@@ -4,9 +4,9 @@ This project demonstrates my ability to solve a problem using data-driven techni
 
 
 **Clone the Repository**  
-   ```bash  
+
    git clone https://github.com/your-username/data-science-task.git  
-   cd data-science-task
+   cd data-science-task 
 
 Results
 This section highlights the main outcomes of the task. (Customize based on the key findings from your notebook.)
