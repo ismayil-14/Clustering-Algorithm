@@ -5,7 +5,7 @@ This project demonstrates my ability to solve a problem using data-driven techni
 
 **Clone the Repository**  
 
-   git clone https://github.com/ismayil-14/data-science-task.git  
+   git clone https://github.com/ismayil-14/Clustering-Algorithm.git  
    cd data-science-task 
 
 Results
